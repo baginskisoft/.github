@@ -1,4 +1,4 @@
-# Baginskisoft
+# :octopus: Baginskisoft
 
 Here, you can:
 
