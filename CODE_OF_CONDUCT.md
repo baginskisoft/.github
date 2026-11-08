@@ -1,6 +1,6 @@
 [email]: opensource@baginskisoft.com
 
-# Our Commitment
+# :handshake: Our Commitment
 
 I want everyone who participates in my projects and communities to have
 a welcoming, respectful, and positive experience.

@@ -1,6 +1,6 @@
 [commit]: https://www.conventionalcommits.org/
 
-# Contributing To This Project
+# :octopus: Contributing To This Project
 
 Thank you for your interest in contributing to this project.
 
